@@ -58,7 +58,10 @@ brew install python
 git clone https://github.com/belalmostafaaa/NetTrust.git
 ```
 ```
-brew install nmap
+cd nettrust
+```
+```
+chmod +x nettrust.py
 ```
 ```
 pip install -r requirements.txt
